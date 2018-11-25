@@ -1,20 +1,16 @@
-import csv
-from itertools import groupby
+""" 
+PSIT Data Analysis Project
+"""
 
-#Mannage File
-file = open('Health_AnimalBites.csv')
-data = csv.reader(file)
-table = [row for row in data]
+import pandas
 
-#Clean data
-gb_animal = groupby(table, lambda x: x[1])
-all_animal = dict()
+def main():
+    """ Get data from CSV and mannage data """
+    #Mannage File
+    data = pandas.read_csv('Health_AnimalBites.csv')
 
-#How many animal that bite people
-for animal in gb_animal:
-    if animal[0] not in all_animal:
-        all_animal[animal[0]] = 1
-    else:
-        all_animal[animal[0]] += 1
+    #Clean data
+    data_group = data.groupby(['SpeciesIDDesc']).size()
+    print(data_group)
 
-print(all_animal)
+main()

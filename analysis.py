@@ -31,6 +31,6 @@ def main():
     print("---Color of Pit bull---", pit_color.sort_values(ascending=False), sep="/n")
 
     #bite_date >>> Pitbull
-    date = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['quarantine_date']).size().sort_values(ascending=True)
+    date = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['bite_date']).size()
     print("---Bite date of Pit bull---", date, sep='/n')
 main()

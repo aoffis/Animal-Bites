@@ -14,7 +14,7 @@ def main():
     print(data_group)
 
     #Species of dog
-    dog_specie = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['BreedIDDesc']).size()
+    dog_specie = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['BreedIDDesc']).size().sort_values(ascending=False)
     print(dog_specie)
 
     #Gender of dog
@@ -29,4 +29,7 @@ def main():
     pit_color = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['color']).size()
     print("---Color of Pit bull---", pit_color, sep="/n")
 
+    #bite_date >>> Pitbull
+    date = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['quarantine_date']).size().sort_values(ascending=True)
+    print("---Bite date of Pit bull---", date, sep='/n')
 main()

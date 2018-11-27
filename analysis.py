@@ -3,6 +3,7 @@ PSIT Data Analysis Project
 """
 
 import pandas
+import pygal
 
 def main():
     """ Get data from CSV and mannage data """
@@ -33,4 +34,6 @@ def main():
     #bite_date >>> Pitbull
     date = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['bite_date']).size()
     print("---Bite date of Pit bull---", date, sep='/n')
+
+    #pygal >>> build graph
 main()

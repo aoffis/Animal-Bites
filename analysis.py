@@ -13,23 +13,23 @@ def main():
 
     #Clean data
     data_group = data['SpeciesIDDesc'].value_counts()
-    print(data_group)
+    print(data_group.to_dict())
 
     #Species of dog
     dog_specie = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['BreedIDDesc']).size().sort_values(ascending=False)
-    print(dog_specie)
+    print(dog_specie.to_dict())
 
     #Gender of dog
     dog_gen = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['GenderIDDesc']).size()
-    print(dog_gen)
+    print(dog_gen.to_dict())
 
     #Color of dog
     dog_color = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['color']).size()
-    print("---Color of Dog---", dog_color.sort_values(ascending=False), sep="/n")
+    print("---Color of Dog---", dog_color.sort_values(ascending=False).to_dict(), sep="/n")
 
     #color of Pitbull
     pit_color = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['color']).size()
-    print("---Color of Pit bull---", pit_color.sort_values(ascending=False), sep="/n")
+    print("---Color of Pit bull---", pit_color.sort_values(ascending=False).to_dict(), sep="/n")
 
     #bite_date >>> Pitbull
     date = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['bite_date']).size()

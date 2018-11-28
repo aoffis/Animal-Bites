@@ -35,5 +35,12 @@ def main():
     date = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['bite_date']).size()
     print("---Bite date of Pit bull---", date, sep='/n')
 
-    #pygal >>> build graph
+    #pygal >>> build bar chart
+    #color_dog
+    color_dog = pit_color.sort_values(ascending=True).to_dict()
+    bar = pygal.Bar()
+    for i in color_dog:
+        bar.add(i, color_dog[i])
+    bar.render_to_file('wowbar.svg')
+    bar.render_in_browser()
 main()

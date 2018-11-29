@@ -35,7 +35,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 31/3/1994 0:00,Dog,,Male,Brown,,,,No,Body,6/4/1994 0:00,Released,,,Unknown
 11/4/1994 0:00,Dog,,Male,Black,,,,No,Body,13/4/1994 0:00,Released,,,Unknown
 8/5/1994 0:00,Dog,,Unknown,,,,,No,Body,9/5/1994 0:00,Released,,,Unknown
-10/5/1994 0:00,Dog,,Female,Multi Colori Color,,,,No,Head,13/5/1994 0:00,Released,,,Unknown
+10/5/1994 0:00,Dog,,Female,Multi Color,,,,No,Head,13/5/1994 0:00,Released,,,Unknown
 22/5/1994 0:00,Dog,,Male,Tri Color,,,,No,Body,24/5/1994 0:00,Released,,,Unknown
 10/6/1994 0:00,Dog,,Unknown,,,,,No,Body,15/6/1994 0:00,Released,,,Unknown
 21/7/1994 0:00,Dog,,Unknown,,,,,No,Body,21/7/1994 0:00,Released,,,Unknown
@@ -320,7 +320,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 12/4/2010 0:00,Dog,,Female,Black  White,2,28/8/2009 0:00,40204,No,Body,15/4/2010 0:00,Released,,,Unknown
 14/4/2010 0:00,Dog,,Unknown,,,,40207,No,Body,14/4/2010 0:00,Unknown,,,Unknown
 14/4/2010 0:00,Dog,,Male,Brown,1,12/4/2010 0:00,40207,No,Body,15/4/2010 0:00,Released,,,Unknown
-14/4/2010 0:00,Dog,,Female,Multi Colori Color,3,22/3/2010 0:00,40218,No,Body,15/4/2010 0:00,Released,,,Unknown
+14/4/2010 0:00,Dog,,Female,Multi Color,3,22/3/2010 0:00,40218,No,Body,15/4/2010 0:00,Released,,,Unknown
 15/4/2010 0:00,Dog,,Female,White,1,17/4/2010 0:00,40219,No,Body,16/4/2010 0:00,Released,,,Unknown
 16/4/2010 0:00,Dog,,Female,Sable,3,7/4/2010 0:00,40218,No,Body,19/4/2010 0:00,Released,,,Unknown
 17/4/2010 0:00,Dog,,Unknown,Tan,,,40210,Yes,Head,19/4/2010 0:00,Unknown,,,Unknown
@@ -582,7 +582,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 23/6/2010 0:00,Dog,,Unknown,Black,,6/6/2009 0:00,40214,No,Body,,Unknown,24/6/2010 0:00,,Unknown
 24/6/2010 0:00,Cat,,Female,Gray,1,23/7/2010 0:00,40209,No,Body,24/6/2010 0:00,Released,,,Unknown
 24/6/2010 0:00,Dog,,Male,Brown,1,12/7/2010 0:00,40229,No,Head,28/6/2010 0:00,Released,,,Unknown
-24/6/2010 0:00,Dog,,Female,Multi Colori Color,1,25/3/2010 0:00,40242,No,Body,25/6/2010 0:00,Released,,,Unknown
+24/6/2010 0:00,Dog,,Female,Multi  Color,1,25/3/2010 0:00,40242,No,Body,25/6/2010 0:00,Released,,,Unknown
 24/6/2010 0:00,Dog,,Female,Brown,,,40211,Yes,Body,25/6/2010 0:00,Released,,,Unknown
 24/6/2010 0:00,Dog,,Unknown,Yellow,,,40258,No,Body,25/6/2010 0:00,Released,,,Unknown
 24/6/2010 0:00,Dog,,Unknown,,,,40215,No,Body,24/6/2010 0:00,Unknown,,,Unknown
@@ -717,7 +717,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 29/7/2010 0:00,Cat,,Unknown,,,,40118,Yes,Body,30/7/2010 0:00,Unknown,,,Unknown
 29/7/2010 0:00,Dog,,Male,Red,,,40229,No,Head,3/8/2010 0:00,Released,,,Unknown
 29/7/2010 0:00,Dog,,Unknown,,,,40291,No,Head,30/7/2010 0:00,Unknown,,,Unknown
-29/7/2010 0:00,Dog,,Male,Multi Colori Color,1,10/8/2010 0:00,40228,No,Body,2/8/2010 0:00,Released,,,Unknown
+29/7/2010 0:00,Dog,,Male,Multi Color,1,10/8/2010 0:00,40228,No,Body,2/8/2010 0:00,Released,,,Unknown
 30/7/2010 0:00,Dog,,Female,Red,1,13/8/2010 0:00,40216,No,Head,3/8/2010 0:00,Released,,,Unknown
 31/7/2010 0:00,Dog,,Male,Tan,1,20/11/2009 0:00,40299,No,Head,2/8/2010 0:00,Released,,,Unknown
 31/7/2010 0:00,Cat,,Male,Gray  White,1,13/8/2010 0:00,40218,No,Body,2/8/2010 0:00,Released,,,Unknown
@@ -820,7 +820,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 27/8/2010 0:00,Dog,,Unknown,,,,40216,No,Body,30/8/2010 0:00,Unknown,,,Unknown
 27/8/2010 0:00,Dog,,Female,Brown,,,40212,No,Body,27/8/2010 0:00,Unknown,,,Unknown
 27/8/2010 0:00,Dog,,Male,Brown,,,40210,No,Body,27/8/2010 0:00,Unknown,,,Unknown
-29/8/2010 0:00,Dog,,Female,Multi Colori Color,3,7/4/2010 0:00,40218,No,Body,1/9/2010 0:00,Released,,,Unknown
+29/8/2010 0:00,Dog,,Female,Multi Color,3,7/4/2010 0:00,40218,No,Body,1/9/2010 0:00,Released,,,Unknown
 29/8/2010 0:00,Dog,,Male,Brown,1,30/8/2010 0:00,40241,No,Head,31/8/2010 0:00,Released,,,Unknown
 29/8/2010 0:00,Cat,,Unknown,,,,40216,Yes,Body,30/8/2010 0:00,Unknown,,,Unknown
 29/8/2010 0:00,Cat,,Unknown,,,,40213,No,Body,30/8/2010 0:00,Unknown,,,Unknown
@@ -1316,7 +1316,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 1/3/2011 0:00,Dog,Pomeranian,,Brown,,,40203,No,Body,1/3/2011 0:00,,,,
 2/3/2011 0:00,Cat,,,,,,40222,Yes,Body,,,,,
 2/3/2011 0:00,Dog,,Female,Black  White,,,40204,Yes,Body,,,,,
-2/3/2011 0:00,Cat,,Female,Multi Colori Color,1,16/3/2011 0:00,40222,No,Body,4/3/2011 0:00,,,,
+2/3/2011 0:00,Cat,,Female,Multi Color,1,16/3/2011 0:00,40222,No,Body,4/3/2011 0:00,,,,
 2/3/2011 0:00,Dog,Yorkshire Terrier,Male,Gray  White,1,17/3/2011 0:00,40202,No,Body,7/3/2011 0:00,,,,
 3/3/2011 0:00,Dog,,Male,Brown,1,11/3/2011 0:00,40216,No,Body,4/3/2011 0:00,Released,,,
 3/3/2011 0:00,Cat,,,,,,40299,Yes,Body,,,,,
@@ -4402,7 +4402,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 22/6/2013 0:00,Dog,,Female,Tri Color,1,16/10/2012 0:00,40071,,Body,,,,,
 24/6/2013 0:00,Dog,Golden Retriever,,,3,3/4/2012 0:00,,,Body,,,,,
 24/6/2013 0:00,Dog,English Bull Dog,Female,Black,1,1/8/2012 0:00,,,Body,,,,,
-24/6/2013 0:00,Cat,,Female,Multi Colori Color,,,,,Body,,,,,
+24/6/2013 0:00,Cat,,Female,Multi Color,,,,,Body,,,,,
 24/6/2013 0:00,Dog,,Female,Brown,1,21/9/2013 0:00,,,Body,,,,,
 25/6/2013 0:00,Dog,,Male,,1,12/12/2013 0:00,40245,,Body,,,,,
 21/6/2013 0:00,Dog,Labrador Retriver,Male,Black,,17/6/2013 0:00,40216,,Body,,,,,
@@ -4561,7 +4561,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 7/8/2013 0:00,Cat,,Female,Tortoise,,,,,,,,,,
 9/8/2013 0:00,Dog,,,,,,40211,,Body,,,,,
 9/8/2013 0:00,Dog,,Male,Black,1,12/8/2013 0:00,11215,,Body,,,,,
-11/8/2013 0:00,Cat,,Male,Multi Colori Color,3,15/11/2011 0:00,,,Body,,,,,
+11/8/2013 0:00,Cat,,Male,Multi Color,3,15/11/2011 0:00,,,Body,,,,,
 10/8/2013 0:00,Dog,Siberian Husky,Female,Black White,1,14/2/2013 0:00,,,Body,,,,,
 11/8/2013 0:00,Cat,,Male,Orange,1,1/4/2013 0:00,,,Unknown,,,,,
 9/8/2013 0:00,Dog,,Male,Brown,1,9/8/2013 0:00,40204,,Body,,,,,
@@ -4767,7 +4767,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 30/9/2013 0:00,Cat,,Male,Gray White,3,24/10/2013 0:00,,,Body,,,,,
 6/10/2013 0:00,Dog,Beagle,Male,Tan,1,6/4/2013 0:00,40242,,Body,,,,,
 4/10/2013 0:00,Dog,Dachshund,Male,Red,,,40299,,Body,,,,,
-5/10/2013 0:00,Cat,,Male,Multi Colori Color,3,23/10/2013 0:00,40204,,Body,,,,,
+5/10/2013 0:00,Cat,,Male,Multi Color,3,23/10/2013 0:00,40204,,Body,,,,,
 4/10/2013 0:00,Dog,Boxer,Female,Brindle,1,6/4/2013 0:00,40245,,Body,,,,,
 4/10/2013 0:00,Cat,,Female,Gray,,,40241,,Body,,,,,
 1/10/2013 0:00,Cat,,Female,Orange,1,27/10/2012 0:00,40241,,Body,,,,,
@@ -4802,7 +4802,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 14/10/2013 0:00,Dog,Chichauhau,Male,White,,,,,Body,,,,,
 15/10/2013 0:00,Dog,,Male,Black Tan,,,,,Unknown,,,,,
 19/10/2013 0:00,Dog,Great Dane,Male,Blue,,,,,Body,,,,,
-19/10/2013 0:00,Cat,,Male,Multi Colori Color,,,,,Body,,,,,
+19/10/2013 0:00,Cat,,Male,Multi Color,,,,,Body,,,,,
 20/10/2013 0:00,Dog,,Male,White,3,22/7/2011 0:00,,,Unknown,,,,,
 22/10/2013 0:00,Dog,,Female,Yellow,1,7/9/2013 0:00,40218,,Unknown,,,,,
 21/10/2013 0:00,Dog,Westie,Male,White,1,6/5/2013 0:00,,,Unknown,,,,,
@@ -4934,7 +4934,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 9/12/2013 0:00,Dog,,,,,,,,Body,,,,,
 6/12/2013 0:00,Dog,Beagle,Male,Black White,1,12/3/2014 0:00,,,Body,,,,,
 8/12/2013 0:00,Dog,English Setter,Male,Whitege,3,14/6/2013 0:00,,,Body,,,,,
-6/12/2013 0:00,Dog,,Male,Multi Colori Color,1,,40222,,Unknown,,,,,
+6/12/2013 0:00,Dog,,Male,Multi Color,1,,40222,,Unknown,,,,,
 8/12/2013 0:00,Dog,,Male,Black,,,,,Body,,,,,
 8/12/2013 0:00,Dog,Poodle,Female,Black White,1,8/1/2014 0:00,,,Body,,,,,
 9/12/2013 0:00,Dog,Shih Tzu,Female,Red White,,3/2/2012 0:00,,,Body,,,,,
@@ -5205,7 +5205,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 18/3/2014 0:00,Cat,,Male,Gray,,,,,Body,,,,,
 19/3/2014 0:00,,,Male,Gold,,,,,Body,,,,,
 20/3/2014 0:00,Dog,,Male,Brown Tan,,,,,Body,,,,,
-20/3/2014 0:00,Dog,Pit Bull,Male,Multi Colori Color,,,,,Body,,,,,
+20/3/2014 0:00,Dog,Pit Bull,Male,Multi Color,,,,,Body,,,,,
 23/3/2014 0:00,Dog,Bull Mastiff,Male,Brindle,1,11/5/2013 0:00,,,Body,,,,,
 20/3/2014 0:00,Cat,,Male,Seal,,,,,Body,,,,,
 20/3/2014 0:00,Dog,,,,,,,,Body,,,,,
@@ -5314,7 +5314,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 22/4/2014 0:00,Dog,American Bull Dog,Male,White,1,5/4/2014 0:00,40219,,,,,,,
 22/4/2014 0:00,Dog,Pit Bull,Male,Brown Black,,,,,Body,,,,,
 22/4/2014 0:00,Dog,,,Brown,3,5/5/2014 0:00,40299,,Body,,,,,
-22/4/2014 0:00,Dog,Basset Hound,,Multi Colori ColorCOLOR,1,6/6/2014 0:00,,,Head,,,,,
+22/4/2014 0:00,Dog,Basset Hound,,Multi ColorCOLOR,1,6/6/2014 0:00,,,Head,,,,,
 21/4/2014 0:00,Cat,,Female,Black White,,,,,Body,,,,,
 21/4/2014 0:00,Dog,,Female,Brown White,,,,,Body,,,,,
 17/4/2014 0:00,Dog,Schnauzer,Female,Gray Black,,,,,Body,,,,,
@@ -5753,7 +5753,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 10/8/2014 0:00,Dog,German Sheperd,Male,Gray,3,24/5/2012 0:00,40272,,Body,,,,,
 8/8/2014 0:00,Cat,,,,1,8/8/2014 0:00,,,Body,,,,,
 9/8/2014 0:00,Dog,Chichauhau,,,1,12/8/2014 0:00,,,Body,,,,,
-10/8/2014 0:00,Cat,,Male,Multi Colori Color,1,9/9/2014 0:00,,,Body,,,,,
+10/8/2014 0:00,Cat,,Male,Multi Color,1,9/9/2014 0:00,,,Body,,,,,
 11/8/2014 0:00,Dog,,Female,Black,1,24/10/2013 0:00,40299,,Unknown,,,,,
 11/8/2014 0:00,Cat,,,Gray White,,,,,Body,,,,,
 11/8/2014 0:00,Dog,Pug,,,1,13/6/2014 0:00,,,Body,,,,,
@@ -6645,7 +6645,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 9/6/2015 0:00,Dog,Collie,Male,Brown,,,40065,Yes,Unknown,,,,,
 10/6/2015 0:00,Dog,Golden Retriever,Male,Yellow,1,16/12/2014 0:00,40207,,Body,,,,,
 6/6/2015 0:00,Dog,,,,,,40291,Yes,Unknown,,,,,
-9/6/2015 0:00,Cat,,Male,Multi Colori Color COLO,1,24/6/2015 0:00,40299,,Body,,,,,
+9/6/2015 0:00,Cat,,Male,Multi Color,1,24/6/2015 0:00,40299,,Body,,,,,
 8/6/2015 0:00,Dog,,Male,Tan White,,,40215,,Body,,,,,
 8/6/2015 0:00,Cat,,Female,Black,,,40217,Yes,Body,,,,,
 8/6/2015 0:00,Cat,,Female,Black White,,,40272,,Body,,,,19/6/2015 0:00,
@@ -7041,7 +7041,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 3/11/2015 0:00,Dog,,Female,Black White,1,9/6/2015 0:00,40258,,Body,,,,16/11/2015 0:00,
 3/11/2015 0:00,Dog,Siberian Husky,Male,,,,40241,,Body,,,,,
 3/11/2015 0:00,Dog,Beagle,Male,Brown White,1,13/1/2015 0:00,40229,,Body,,,,13/11/2015 0:00,
-3/11/2015 0:00,Dog,Aust Terrier,Female,Multi Colori Color,,,40165,,Body,,,,13/11/2015 0:00,
+3/11/2015 0:00,Dog,Aust Terrier,Female,Multi Color,,,40165,,Body,,,,13/11/2015 0:00,
 24/10/2015 0:00,Cat,,Male,Brown,,,40212,,Body,,,,3/11/2015 0:00,
 30/10/2015 0:00,Dog,Labrador Retriver,Male,Black Gray,,,40047,,Head,,,,,
 25/10/2015 0:00,Dog,Pit Bull,Female,Brown White,,,40215,,Body,,,,4/11/2015 0:00,
@@ -7158,7 +7158,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 4/1/2016 0:00,Dog,,Unknown,,,,40217,,Body,,,,,
 1/1/2016 0:00,Dog,Irish Spaniel,Female,Brown,3,23/5/2015 0:00,53704,,Head,,,,11/1/2016 0:00,
 3/1/2016 0:00,Dog,Pit Bull,Unknown,Black,,,40229,,Body,,,,13/1/2016 0:00,
-2/1/2016 0:00,Dog,Cocker Spainel,Male,Multi Colori Color COLO,1,1/6/2014 0:00,40216,,Head,,,,12/1/2016 0:00,
+2/1/2016 0:00,Dog,Cocker Spainel,Male,Multi Color,1,1/6/2014 0:00,40216,,Head,,,,12/1/2016 0:00,
 3/1/2016 0:00,Dog,Husky,Male,White,1,29/2/2016 0:00,40291,,Body,,,,14/1/2016 0:00,
 2/1/2016 0:00,Dog,Unknown,Male,Gold Red,,,40218,Yes,Body,,,,,
 1/1/2016 0:00,Dog,Pit Bull,Female,Gray,1,28/1/2016 0:00,40108,,Body,,,,13/1/2016 0:00,
@@ -8556,7 +8556,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 17/5/2017 0:00,Dog,Chichauhau,Female,Tan Brown,1,22/6/2017 0:00,40213,,Body,,,,30/5/2017 0:00,
 16/5/2017 0:00,Dog,Aust Terrier,Female,Black White,1,20/7/2016 0:00,40216,,Body,,,,30/5/2017 0:00,
 22/5/2017 0:00,Dog,Pit Bull,Male,Black White,1,20/3/2017 0:00,40214,,Body,,,,1/6/2017 0:00,
-15/5/2017 0:00,Cat,Beagle,Female,Multi Colori Color,1,13/9/2016 0:00,40216,,Unknown,,,,25/5/2017 0:00,
+15/5/2017 0:00,Cat,Beagle,Female,Multi Color,1,13/9/2016 0:00,40216,,Unknown,,,,25/5/2017 0:00,
 23/5/2017 0:00,Dog,,Male,Sandy,1,29/6/2017 0:00,40223,,Head,,,,2/6/2017 0:00,
 22/5/2017 0:00,Cat,,Male,,3,28/9/2016 0:00,40223,,Unknown,,,,2/6/2017 0:00,
 22/5/2017 0:00,Dog,Aust Terrier,Female,Black,1,15/6/2017 0:00,40291,,Unknown,,,,7/6/2017 0:00,
@@ -8701,7 +8701,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 25/6/2017 0:00,Cat,,Male,Gray,1,6/7/2017 0:00,40241,,Body,,,,15/7/2017 0:00,
 27/6/2017 0:00,Dog,Chow Chow,Female,Yellow,1,30/6/2017 0:00,40210,,Body,,,,7/7/2017 0:00,
 27/6/2017 0:00,Dog,Dachshund,Female,Brown,3,21/7/2017 0:00,40219,,Body,,,,7/7/2017 0:00,
-28/6/2017 0:00,Cat,,Female,Multi Colori Color,,,40299,,Head,,,,,
+28/6/2017 0:00,Cat,,Female,Multi Color,,,40299,,Head,,,,,
 28/6/2017 0:00,Dog,,,,,,40291,,Body,,,,,
 28/6/2017 0:00,Dog,,Male,White,1,1/8/2017 0:00,40118,,,,,,10/7/2017 0:00,
 27/6/2017 0:00,Dog,,Male,Black,,,40215,,Body,,,,,

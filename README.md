@@ -18,3 +18,4 @@ Analyse animal that bite people and see after 2000s is it different or not.
 |![alt text](https://github.com/Alhzz/Animal-Bites/blob/master/member/37292.jpg "Ason Uthatham ID: 61070262")| Ason Uthatham | 61070262
 |![alt text](https://github.com/Alhzz/Animal-Bites/blob/master/member/531825.jpg "Thuchpun Apivitcholachat ID: 61070085")| Thuchpun Apivitcholachat | 61070085
 |![alt text](https://github.com/Alhzz/Animal-Bites/blob/master/member/90461.jpg "Thaworn Chalearm ID: 61070064")| Thaworn Chalearm  | 61070064 |
+|![alt text](https://github.com/Alhzz/Animal-Bites/blob/master/member/181130_0068.jpg "์Nattapong Sainak ID: 61070054")| Nattapong Sainak  | 61070054 |

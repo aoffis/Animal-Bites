@@ -10,7 +10,6 @@ def main():
     #Manage File from .csv >>> DataFrame(by using pandas)
     data = pandas.read_csv('Health_AnimalBites.csv')
 
-<<<<<<< HEAD
     #Clean data
     data_group = data.groupby(['SpeciesIDDesc']).size()
     print(data_group)
@@ -31,7 +30,6 @@ def main():
     pit_color = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['color']).size()
     print("---Color of Pit bull---", pit_color, sep="/n")
 
-=======
     #Sort most animal that bite people in U.S.A.
     data_group = data['SpeciesIDDesc'].value_counts()
     print(data_group.to_dict())

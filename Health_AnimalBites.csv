@@ -7666,7 +7666,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 6/6/2016 0:00,Dog,,Female,Black White,1,22/8/2015 0:00,40220,,Head,,,,17/6/2016 0:00,
 7/6/2016 0:00,Dog,,Male,Brown White,,,40065,,Body,,,,17/6/2016 0:00,
 9/6/2016 0:00,Dog,Shih Tzu,Male,Gray White,1,30/6/2015 0:00,40213,,Body,,,,,
-30/3/2016 0:00,Cat,,,Black,,,40229,,Unknown,,,,,
+30/3/2016 0:00,Cat,,,white,,,40229,,Unknown,,,,,
 11/6/2016 0:00,Dog,Bull Mastiff,Male,Tan Blue,1,1/10/2015 0:00,40211,,Body,,,,23/6/2016 0:00,
 14/6/2016 0:00,Dog,Mastif,Male,Black White,1,27/6/2016 0:00,40223,,Unknown,,,,24/6/2016 0:00,
 8/6/2016 0:00,Dog,Labrador Retriver,,Black,,,40212,,Body,,,,,

@@ -62,7 +62,7 @@ def main():
         pie.add(i, animal[i])
     pie.title = 'Most Animal that Bite People'
     pie.render_to_file('wowpie.svg')
-    #pie.render_in_browser()
+    pie.render_in_browser()
     
     #Show color of Pitbull(in bar chart)
     color_dog = pit_color.sort_values(ascending=False).to_dict()
@@ -72,8 +72,10 @@ def main():
     for i in color_dog:
         treemap.add(i, color_dog[i])
     treemap.render_to_file('wowtreemap.svg')
-    #reemap.render_in_browser()
+    treemap.render_in_browser()
 
-    #date
+    #Area
+    zip_code = data[data['SpeciesIDDesc'] == 'Dog'].groupby(['victim_zip']).size().sort_values(ascending=False)
+    print(zip_code)
 
 main()

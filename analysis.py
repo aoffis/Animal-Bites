@@ -29,31 +29,6 @@ def main():
     pit_color = data[data['BreedIDDesc'] == 'Pit Bull'].groupby(['color']).size()
     print("---Color of Pit bull---", pit_color, sep="/n")
 
-    #Sort most animal that bite people in U.S.A.
-    data_group = data['SpeciesIDDesc'].value_counts()
-    print(data_group.to_dict())
-
-    #Sort species of dog
-    dog_specie = data[data['SpeciesIDDesc'] == 'Dog'].groupby(['BreedIDDesc']).size().sort_values(ascending=False)
-    print(dog_specie.to_dict())
-
-    #Sort gender of dog
-    dog_gen = data[data['SpeciesIDDesc'] == 'Dog'].groupby(['GenderIDDesc']).size()
-    print(dog_gen.to_dict())
-
-    #Sort color of dog
-    dog_color = data[data['SpeciesIDDesc'] == 'Dog'].groupby(['color']).size()
-    print("---Color of Dog---", dog_color.sort_values(ascending=False).to_dict(), sep="/n")
-
-    #Sort color of Pitbull
-    pit_color = data[data['BreedIDDesc'] == 'Pit Bull'].groupby(['color']).size()
-    print("---Color of Pit bull---", pit_color.sort_values(ascending=False).to_dict(), sep="/n")
-
-    #Sort Bite date of Pitbull
-    date = data[data['BreedIDDesc'] == 'Pit Bull'].groupby(['bite_date']).size()
-    print("---Bite date of Pit bull---", date, sep='/n')
-
-
 
     """
     Show data in graph(by using pygal)

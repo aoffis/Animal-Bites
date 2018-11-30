@@ -6,7 +6,7 @@ import pandas
 import pygal
 
 def main():
-    """ Get data from CSV and mannage data """
+    """ Get data from CSV and manage data """
     #Manage File from .csv >>> DataFrame(by using pandas)
     data = pandas.read_csv('Health_AnimalBites.csv')
 

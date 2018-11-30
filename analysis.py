@@ -2,8 +2,7 @@
 PSIT Data Analysis Project
 """
 
-import pandas
-import pygal
+import pandas, pygal
 
 def main():
     """ Get data from CSV and manage data """

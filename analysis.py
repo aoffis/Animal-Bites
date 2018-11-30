@@ -66,10 +66,12 @@ def main():
     
     #Show color of Pitbull(in bar chart)
     color_dog = pit_color.sort_values(ascending=False).to_dict()
-    bar = pygal.Bar()
+
+    treemap = pygal.Treemap()
+    treemap.title = 'Most color of Pitbull'
     for i in color_dog:
-        bar.add(i, color_dog[i])
-    bar.title = 'Most color of Pitbull'
-    bar.render_to_file('wowbar.svg')
-    bar.render_in_browser()
+        treemap.add(i, color_dog[i])
+    treemap.render_to_file('wowtreemap.svg')
+    treemap.render_in_browser()
+
 main()

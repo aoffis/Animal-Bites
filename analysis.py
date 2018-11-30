@@ -14,7 +14,7 @@ def main():
     print(data_group)
 
     #Species of dog
-    dog_specie = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['BreedIDDesc']).size()
+    dog_specie = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['BreedIDDesc']).size().sort_values(ascending=False)
     print(dog_specie)
 
     #Gender of dog

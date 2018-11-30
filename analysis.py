@@ -11,23 +11,23 @@ def main():
     data = pandas.read_csv('Health_AnimalBites.csv')
 
     #Clean data
-    data_group = data.groupby(['SpeciesIDDesc']).size()
+    data_group = data['SpeciesIDDesc'].value_counts()
     print(data_group)
 
     #Species of dog
-    dog_specie = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['BreedIDDesc']).size().sort_values(ascending=False)
+    dog_specie = data[data['SpeciesIDDesc'] == 'Dog'].groupby(['BreedIDDesc']).size()
     print(dog_specie)
 
     #Gender of dog
-    dog_gen = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['GenderIDDesc']).size()
+    dog_gen = data[data['SpeciesIDDesc'] == 'Dog'].groupby(['GenderIDDesc']).size()
     print(dog_gen)
 
     #Color of dog
-    dog_color = data[data['SpeciesIDDesc'] == 'DOG'].groupby(['color']).size()
+    dog_color = data[data['SpeciesIDDesc'] == 'Dog'].groupby(['color']).size()
     print("---Color of Dog---", dog_color, sep="/n")
 
     #color of Pitbull
-    pit_color = data[data['BreedIDDesc'] == 'PIT BULL'].groupby(['color']).size()
+    pit_color = data[data['BreedIDDesc'] == 'Pit Bull'].groupby(['color']).size()
     print("---Color of Pit bull---", pit_color, sep="/n")
 
     #Sort most animal that bite people in U.S.A.
@@ -62,7 +62,7 @@ def main():
         pie.add(i, animal[i])
     pie.title = 'Most Animal that Bite People'
     pie.render_to_file('wowpie.svg')
-    pie.render_in_browser()
+    #pie.render_in_browser()
     
     #Show color of Pitbull(in bar chart)
     color_dog = pit_color.sort_values(ascending=False).to_dict()
@@ -72,6 +72,8 @@ def main():
     for i in color_dog:
         treemap.add(i, color_dog[i])
     treemap.render_to_file('wowtreemap.svg')
-    treemap.render_in_browser()
+    #reemap.render_in_browser()
+
+    #date
 
 main()

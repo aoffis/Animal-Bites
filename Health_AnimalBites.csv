@@ -1428,7 +1428,7 @@ bite_date,SpeciesIDDesc,BreedIDDesc,GenderIDDesc,color,vaccination_yrs,vaccinati
 15/6/2015 0:00,Dog,Pit Bull,Male,Black White,,,40212,,Body,,,15/6/2015 0:00,,NEGATIVE
 16/6/2015 0:00,Cat,,,,,,40206,,Body,,,16/6/2015 0:00,,NEGATIVE
 17/6/2015 0:00,Cat,,,,,,40245,Yes,Body,,,17/6/2015 0:00,,NEGATIVE
-18/6/2015 0:00,Cat,,Male,Gray,,,40212,,Body,,,18/6/2015 0:00,,NEGATIVE
+18/6/2015 0:00,Cat,,,Gray,,,40212,,Body,,,18/6/2015 0:00,,NEGATIVE
 22/6/2015 0:00,Dog,Pit Bull,Male,Black,,8/2/2013 0:00,47150,,Head,,,22/6/2015 0:00,,NEGATIVE
 22/6/2015 0:00,Dog,,,,,,40245,,Head,,,22/6/2015 0:00,,NEGATIVE
 23/6/2015 0:00,Dog,Pit Bull,Female,Brown White,,,40215,,Body,,,26/6/2015 0:00,,NEGATIVE
